@@ -16,6 +16,7 @@ img1.save('qq_image_thumb.png', 'PNG')       # 保存图片
 img1.show()
 
 
+
 a = 1
 
 
